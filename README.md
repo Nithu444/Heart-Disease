@@ -15,4 +15,4 @@ This project aims to predict the presence of heart disease in patients based on 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Heart-Disease.git
+   git clone https://github.com/Nithu444/Heart-Disease.git
